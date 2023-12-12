@@ -13,17 +13,5 @@
     "id": 3,
     "label": "Sample #3",
     "value": "Sample 3"
-  },
-  {
-    "id": 4,
-    "label": "Sample #4",
-    "value": "Sample 1.1",
-    "parent": 1
-  },
-  {
-    "id": 5,
-    "label": "Sample #5",
-    "value": "Sample 1.2",
-    "parent": 1
   }
 ]
